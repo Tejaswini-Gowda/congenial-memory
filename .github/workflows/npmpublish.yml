@@ -28,7 +28,7 @@ jobs:
         with:
           node-version: 12
           registry-url: https://npm.pkg.github.com/
-          scope: 'sandesh2026'
+          scope: '***REMOVED***-Gowda'
       - run: npm publish
         env:
-          NODE_AUTH_TOKEN: ${{secrets.new_token}}
+          NODE_AUTH_TOKEN: ${{secrets.TEJASWINI}}
