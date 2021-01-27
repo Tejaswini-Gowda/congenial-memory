@@ -1,6 +1,6 @@
 {
   "name": "congenial-memory",
-  "repository": {"type": "git" , "url": "git://github.com/***REMOVED***-Gowda/congenial-memory.git"},
+  "repository": {"type": "git" , "url": "git://github.com/@***REMOVED***-Gowda/congenial-memory.git"},
   "description": "Boilerplate NodeJS webapp codebase",
   "version": "0.0.1",
   "private": false,
