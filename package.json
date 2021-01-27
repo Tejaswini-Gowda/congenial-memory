@@ -1,6 +1,6 @@
 {
-  "name": "My_npm_web",
-  "repository": {"type": "git" , "URL": "git://github.com/sandesh2026/My_npm_web.git"},
+  "name": "congenial-memory",
+  "repository": {"type": "git" , "URL": "git://github.com/***REMOVED***-Gowda/congenial-memory.git"},
   "description": "Boilerplate NodeJS webapp codebase",
   "version": "0.0.1",
   "private": false,
@@ -26,6 +26,6 @@
     "prettier": "^1.18.2"
   },
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com/@sandesh2026"
+    "registry":"https://npm.pkg.github.com/@***REMOVED***-Gowda"
   }
 }
